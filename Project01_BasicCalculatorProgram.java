@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class BasicCalculatorProgram {
+class Project01_BasicCalculatorProgram {
     public static void main (String[] args) {   
         Scanner sc = new Scanner(System.in);
         System.out.println("== Basic calculator ===");
