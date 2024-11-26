@@ -1,4 +1,5 @@
 # Java Projects for Beginners ☕
+This repository contains Java projects for beginners, created to test my understanding of the fundamentals of Java programming.
 
 ## 🗂️ Project Structure  
 ```plaintext
