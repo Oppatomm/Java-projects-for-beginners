@@ -31,5 +31,6 @@ class Project01_BasicCalculatorProgram {
             default :
                 System.out.println("Invalid operation. Please enter +, -, *, or /.");
         }
+        sc.close();
     }
 }
