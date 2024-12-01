@@ -4,7 +4,12 @@ This repository contains Java projects for beginners, created to test my underst
 ## 🗂️ Project Structure  
 ```plaintext
 java projects for beginners
-├── project01_basic calculatorprogram       
+├── project01_basic calculatorprogram 
+├── project02_temperature conversion program C to F , F to C
+├── project03_grade calculator program
+├── project04_program to Check Leap Year
+├── project05_program to find factors of numbers 
+├── project06_compound interest calculator program
 └── README.md                    
 ```
 
