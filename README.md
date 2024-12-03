@@ -10,6 +10,7 @@ java projects for beginners
 ├── project04_program to Check Leap Year
 ├── project05_program to find factors of numbers 
 ├── project06_compound interest calculator program
+├── project07_program to count the number of words and characters
 └── README.md                    
 ```
 
