@@ -4,7 +4,7 @@ This repository contains Java projects for beginners, created to test my underst
 ## 🗂️ Project Structure  
 ```plaintext
 java projects for beginners
-├── project01_basic calculatorprogram 
+├── project01_basic calculator program 
 ├── project02_temperature conversion program C to F , F to C
 ├── project03_grade calculator program
 ├── project04_program to Check Leap Year
@@ -28,4 +28,16 @@ A basic calculator program that can perform addition, subtraction, multiplicatio
 **What I learned :**  
 - Using `Scanner` to recetive input from the user.
 - Using `if-else` and `switch-case` to control the program's flow.
+- Displaying results back to the user.
+
+### 2️⃣ Project 2 : Temperature Conversion Program C to F , F to C
+A temperature conversion program that can convert temperature from Celsius to Fahrenheit and Fahrenheit to Celsius.
+
+**Features :**
+- Convert temperature from Celsius (°C) to Fahrenheit (°F) and vice versa.
+
+**What I learned :**
+- Using `Scanner` to recetive input from the user.
+- Using `switch-case`
+- Using `break`
 - Displaying results back to the user.
