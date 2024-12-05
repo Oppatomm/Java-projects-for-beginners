@@ -20,7 +20,12 @@ java projects for beginners
 ### 1️⃣ Project 1 : Basic Calculator Program
 A basic calculator program that can perform addition, subtraction, multiplication, and division by taking numbers and commands from the user. 
 
+**Features :**
+- Enter two numbers from the user.
+- Choose a type of calculation (addition, subtraction, multiplication, division).
+- Display the result.
+
 **What I learned :**  
-- Using `Scanner` to recetive input from the user
-- Using `if-else` and `switch-case` to control the program's flow
-- Displaying results back to the user  
+- Using `Scanner` to recetive input from the user.
+- Using `if-else` and `switch-case` to control the program's flow.
+- Displaying results back to the user.
