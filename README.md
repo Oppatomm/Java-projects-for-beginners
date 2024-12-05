@@ -11,6 +11,7 @@ java projects for beginners
 ├── project05_program to find factors of numbers 
 ├── project06_compound interest calculator program
 ├── project07_program to count the number of words and characters
+├── project08_number guessing game
 └── README.md                    
 ```
 
