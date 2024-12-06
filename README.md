@@ -41,3 +41,15 @@ A temperature conversion program that can convert temperature from Celsius to Fa
 - Using `switch-case`
 - Using `break`
 - Displaying results back to the user.
+
+### 3️⃣ Grade Calculator Program 
+A program to calculate grades by receiving a score and displaying the grade to the user.
+
+**Features :**
+- Receive a score from the user.
+- Convert the score into a grade based on the criteria (e.g., A, B, C, D).
+
+**What I learned :**
+- Using `Scanner` to recetive input from the user.
+- Using `if-else` 
+- Displaying results back to the user.
