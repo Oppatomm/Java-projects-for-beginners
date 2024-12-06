@@ -53,3 +53,16 @@ A program to calculate grades by receiving a score and displaying the grade to t
 - Using `Scanner` to recetive input from the user.
 - Using `if-else` 
 - Displaying results back to the user.
+
+
+### 4️⃣ Program to Check Leap Year
+A program to check for leap years. When the user inputs a year (AD), the program will display whether the year is a leap year or not
+
+**Features :**
+- Receive a year from the user.
+- Check whether the year is a leap year or not.
+
+**What I learned :**
+- Using `Scanner` to recetive input from the user.
+- Using `if-else`
+- Displaying results back to the user.
