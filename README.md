@@ -90,3 +90,13 @@ A program to calculate compound interest by receiving the principal amount, inte
 - Using `Scanner` to recetive input from the user.
 - Learn about using the `for-loop`.
 - Learn about using `BigDecimal` and `RoundingMode`.
+
+### 7️⃣ Project 7 : Program to Count The Number of Words and Characters
+A program to count the number of words and characters. The user only needs to input a text, and the program will display how many words and characters are in the text.
+
+**Features :**
+- Receive text input from the user. 
+- Count the number of words and characters (excluding spaces).
+
+**What I learned :**
+- Learn about using `methods`.
