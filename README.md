@@ -100,3 +100,15 @@ A program to count the number of words and characters. The user only needs to in
 
 **What I learned :**
 - Learn about using `methods`.
+
+### 8️⃣ Project 8 : Number Guessing Game
+A number guessing game where the user keeps guessing until they get the correct number. When the user guesses correctly, the program ends.
+
+**Features :**
+- Have the system generate a random number between 1 and 100.
+- Let the user guess the number until they get it right.
+- Tell the user whether their guess is too high or too low.
+
+**What I learned :**
+- Learn about using `Random`.
+- Learn about using `the do-while loop`.
