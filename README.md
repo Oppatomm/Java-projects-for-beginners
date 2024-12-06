@@ -42,7 +42,7 @@ A temperature conversion program that can convert temperature from Celsius to Fa
 - Using `break`
 - Displaying results back to the user.
 
-### 3️⃣ Grade Calculator Program 
+### 3️⃣ Project 3 : Grade Calculator Program 
 A program to calculate grades by receiving a score and displaying the grade to the user.
 
 **Features :**
@@ -55,7 +55,7 @@ A program to calculate grades by receiving a score and displaying the grade to t
 - Displaying results back to the user.
 
 
-### 4️⃣ Program to Check Leap Year
+### 4️⃣ Project 4 : Program to Check Leap Year
 A program to check for leap years. When the user inputs a year (AD), the program will display whether the year is a leap year or not
 
 **Features :**
@@ -67,7 +67,7 @@ A program to check for leap years. When the user inputs a year (AD), the program
 - Using `if-else`
 - Displaying results back to the user.
 
-### 5️⃣ Program to Find Factors of Numbers
+### 5️⃣ Project 5 : Program to Find Factors of Numbers
 A program to find the factors of a number. The program will take a number input from the user and display all the numbers that can divide it completely.
 
 **Features :**
@@ -77,4 +77,16 @@ A program to find the factors of a number. The program will take a number input 
 **What I learned :**
 - Using `Scanner` to recetive input from the user.
 - Use a `for-loop` and `if-else` to make the program more efficient.
-- 
+- Displaying results back to the user.
+
+### 6️⃣ Project 6 : Compound Interest Calculator Program
+A program to calculate compound interest by receiving the principal amount, interest rate, and years from the user.
+
+**Features :**
+- Receive the principal amount, interest rate, and time period (in years) from the user.
+- Calculate the total amount after adding compound interest.
+
+**What I learned :**
+- Using `Scanner` to recetive input from the user.
+- Learn about using the `for-loop`.
+- Learn about using `BigDecimal` and `RoundingMode`.
