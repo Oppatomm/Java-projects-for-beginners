@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class Project02_TemperatureConversionProgram_CtoF_FtoC {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.print("=== Temperature Conversion Program Celsius to Fahrenheit , Fahrenheit to Celsius ===");
+        System.out.println("=== Temperature Conversion Program Celsius to Fahrenheit , Fahrenheit to Celsius ===");
         System.out.printf("Enter temperature: ");
         int temperature = sc.nextInt();
         sc.nextLine();
