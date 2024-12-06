@@ -66,3 +66,15 @@ A program to check for leap years. When the user inputs a year (AD), the program
 - Using `Scanner` to recetive input from the user.
 - Using `if-else`
 - Displaying results back to the user.
+
+### 5️⃣ Program to Find Factors of Numbers
+A program to find the factors of a number. The program will take a number input from the user and display all the numbers that can divide it completely.
+
+**Features :**
+- Receive a number from the user.
+- Display the factors of the number.
+
+**What I learned :**
+- Using `Scanner` to recetive input from the user.
+- Use a `for-loop` and `if-else` to make the program more efficient.
+- 
