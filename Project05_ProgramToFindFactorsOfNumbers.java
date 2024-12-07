@@ -2,6 +2,7 @@ import java.util.Scanner;
 public class Project05_ProgramToFindFactorsOfNumbers {
     public static void main (String[]args) {
         try (Scanner sc = new Scanner(System.in)) {
+            System.out.println("=== Program To Find Factors of Numbers ===");
             System.out.print("Enter a number: ");
             int number = sc.nextInt();
 
