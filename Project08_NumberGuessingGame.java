@@ -9,6 +9,7 @@ public class Project08_NumberGuessingGame {
             int num = random.nextInt(100);
             int count = 0;
             int guessnumber;
+            System.out.println("=== Number Guessing Game ===");
             do {
                 System.out.printf("Guess the number (1-100) : ");
                 guessnumber = scanner.nextInt();
