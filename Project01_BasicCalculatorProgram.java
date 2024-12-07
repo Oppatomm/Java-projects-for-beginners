@@ -2,7 +2,7 @@ import java.util.Scanner;
 class Project01_BasicCalculatorProgram {
     public static void main (String[] args) {   
         Scanner sc = new Scanner(System.in);
-        System.out.println("== Basic calculator ===");
+        System.out.println("== Basic Calculator Program ===");
         System.out.printf("Enter first number : ");
         int first = sc.nextInt();
         System.out.printf("Enter second number : ");
