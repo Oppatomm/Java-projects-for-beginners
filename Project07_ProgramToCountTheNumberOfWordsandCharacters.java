@@ -12,6 +12,7 @@ public class Project07_ProgramToCountTheNumberOfWordsandCharacters {
     }
     public static void main(String[] args) {
         try (Scanner scanner = new Scanner (System.in)) {
+            System.out.println("=== Program To Count The Number of Words and Characters ===");
             System.out.print("Enter a sentence : ");
             String sentence  = scanner.nextLine();
             System.out.println("Words : " + countwords(sentence));
