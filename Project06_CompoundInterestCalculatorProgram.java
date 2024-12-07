@@ -4,6 +4,7 @@ import java.math.RoundingMode;
 public class Project06_CompoundInterestCalculatorProgram {
     public static void main (String[]args) {
         try (Scanner sc = new Scanner (System.in)) {
+            System.out.println("=== Compound Interest Calculator Program ===");
             System.out.print("Enter principal amount: ");
             BigDecimal principal_amount = sc.nextBigDecimal();
             System.out.print("Enter annual interest rate (in %): ");
